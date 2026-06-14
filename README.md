@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JWT security integrated with web apps<br>🤝 I’m looking for help with a proper guidance and referrals<br>🌱 I’m currently learning DSA and Backend Development using java<br>⚡ I Love spending free times while doing coding and watching MMA fights
+🔭 I’m currently working on JWT security integrated with web apps<br>🤝 I’m looking for help with a proper guidance and referrals<br>🌱 I’m currently learning DSA and Backend Development using Java<br>⚡ I Love spending free times while doing coding and watching MMA fights
 
 
 ## 🌐 Socials:
