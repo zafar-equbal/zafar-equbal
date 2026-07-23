@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Web apps<br>🤝 I’m looking for help with a proper guidance and referrals<br>🌱 I’m currently learning DSA and Backend Development using Java<br>⚡ I love spending free times while doing coding and watching MMA fights
+🔭 I’m currently working on Java Web apps<br>🤝 I’m looking for help with a proper guidance and referrals<br>🌱 I’m currently learning DSA and Backend Development using Java integrated with AI<br>⚡ I love spending free times while doing coding and watching MMA fights
 
 
 ## 🌐 Socials:
